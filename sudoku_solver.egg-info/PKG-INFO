@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: sudoku-solver
+Version: 0.1.0
+Summary: A Sudoku solver that processes images
+Requires-Python: >=3.10
+Requires-Dist: numpy
+Requires-Dist: opencv-python
+Requires-Dist: ortools
+Requires-Dist: tk
